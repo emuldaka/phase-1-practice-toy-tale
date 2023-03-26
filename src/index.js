@@ -65,13 +65,3 @@ fetch("http://localhost:3000/toys")
       toyCollection.appendChild(newDiv);
     })
   );
-
-//   response.json();
-// })
-// .then(function (data) {
-//   console.log(data);
-//   // const newId = data.id;
-//   // const idElement = document.createElement("p");
-//   // idElement.textContent = "New ID: " + newId;
-//   // document.body.appendChild(idElement);
-// });
